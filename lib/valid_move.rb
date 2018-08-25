@@ -1,7 +1,8 @@
 # code your #valid_move? method here
-index .to_i - 1
-def valid_move? (board, index)
 
+def valid_move? (board, index)
+  input = index to_i - 1
+  
 end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
