@@ -3,8 +3,8 @@
 def valid_move? (board, index)
   if board[index] == .between?(1,9)
     true
-  else
-    false
+  # else
+  #   false
   end
 end
 
