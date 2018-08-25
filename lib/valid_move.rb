@@ -1,5 +1,5 @@
 # code your #valid_move? method here
-index = input .to_i - 1
+index .to_i - 1
 def valid_move? (board, index)
 
 end
